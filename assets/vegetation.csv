@@ -1,0 +1,8 @@
+ID,STREAM,SLOPE,ELEVATION,VEGETATION
+1,false,steep,high,chaparral
+2,true,moderate,low,riparian
+3,true,steep,medium,riparian
+4,false,steep,medium,chaparral
+5,false,flat,high,conifer
+6,true,steep,highest,conifer
+7,true,steep,high,chaparral
